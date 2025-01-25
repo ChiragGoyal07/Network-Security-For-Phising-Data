@@ -1,8 +1,5 @@
 ### Network Security Projects For Phising Data
 
-```markdown
-# Network Security from Phishing
-
 This project aims to detect and mitigate phishing attacks using machine learning techniques. The solution leverages preprocessing, training, and deploying ML models to secure networks against phishing threats.
 
 ## Getting Started
@@ -21,7 +18,7 @@ Install the necessary Python dependencies by running:
 
 ```bash
 pip install -r requirements.txt
-```
+
 
 ### Installing
 
