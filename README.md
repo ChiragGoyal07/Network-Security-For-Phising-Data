@@ -18,7 +18,7 @@ Install the necessary Python dependencies by running:
 
 ```bash
 pip install -r requirements.txt
-
+ ```
 
 ### Installing
 
@@ -72,7 +72,6 @@ docker run -d -p 5000:5000 network-security
 ## Versioning
 
 This project follows [SemVer](http://semver.org/) for versioning. Refer to the tags in the repository for details.
-```
 
 
 Setup github secrets:
@@ -102,3 +101,4 @@ sudo sh get-docker.sh
 sudo usermod -aG docker ubuntu
 
 newgrp docker
+'''
